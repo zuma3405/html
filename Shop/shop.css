@@ -1,0 +1,42 @@
+h1{
+	height: 50px;
+	margin-top: 5px;
+	width: 99.75%;
+	text-align: center;
+	padding-top: 10px;
+	font-weight: bold;
+	background-color: #808080;
+	letter-spacing: 9px;
+	color: white;
+	text-shadow: 0 0 5px black;
+	font-size: 30px;
+	text-transform: uppercase;
+	border-radius: 15px;
+
+}.Flover{
+	background-color: rgba(70,70,70,0.9);
+	border-radius: 15px;
+	color: #CC3366;
+	font-size: 15px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	padding-left: 60px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	box-shadow: inset 0 0 10px #777777;
+}
+.button{
+	font-size: 14px;
+	margin: 1px;
+	padding: 11px;
+	color: black;
+	background-color: #808080;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.button:hover{
+    background-color: darksalmon;
+}
+.pop{
+	display: inline-block;
+}
